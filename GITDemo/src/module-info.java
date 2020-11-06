@@ -1,4 +1,4 @@
 module gitdemo {
 	
-test.
+test.dev
 }
